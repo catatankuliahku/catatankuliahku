@@ -1,0 +1,60 @@
+
+body {
+    font    : 1em sans-serif;
+    margin  : 0;
+    padding : 0;
+}
+
+#container {
+    width             : 900px;
+    height            : ;
+    margin            : auto;
+}
+
+#header {
+    border-bottom     : 8px solid black;
+}
+
+#header h2 {
+    text-align        : right;
+    border-bottom     : 1px solid black;
+    padding           : 0 2em 0 0;
+    margin-bottom     : 2px;
+}
+
+#section1 {
+    width             : 500px;
+    height            : ;
+    margin            : ;
+    float             : left;
+}
+
+#section2 {
+    width             : 300px;
+    height            : ;
+    margin            : ;
+    float             : right;
+}
+
+#footer {
+    width             : 900px;
+    height            : ;
+    margin            : auto;
+    float             : left;
+    background        : black;
+    color             : white;
+}
+
+.kontenkiri {
+    width             : 500px;
+    height            : ;
+    margin            : ;
+    float             : left;
+}
+
+.kontenkanan {
+    width             : 300px;
+    height            : ;
+    margin            : ;
+    float             : right;
+}
